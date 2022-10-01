@@ -24,7 +24,7 @@ require (
 	github.com/cloudflare/cloudflare-go v0.33.0
 	github.com/cpuguy83/go-md2man/v2 v2.0.0 // indirect
 	github.com/daaku/go.zipexe v1.0.1 // indirect
-	github.com/digitalocean/godo v1.75.0
+	github.com/digitalocean/godo v1.86.0
 	github.com/ditashi/jsbeautifier-go v0.0.0-20141206144643-2520a8026a9c
 	github.com/dnsimple/dnsimple-go v0.70.1
 	github.com/exoscale/egoscale v0.59.0
@@ -63,8 +63,8 @@ require (
 	github.com/urfave/cli/v2 v2.3.0
 	github.com/vultr/govultr v1.1.1
 	github.com/xddxdd/ottoext v0.0.0-20210101073831-439879ee6281
-	golang.org/x/net v0.0.0-20220225172249-27dd8689420f
-	golang.org/x/oauth2 v0.0.0-20220223155221-ee480838109b
+	golang.org/x/net v0.0.0-20220921155015-db77216a4ee9
+	golang.org/x/oauth2 v0.0.0-20220411215720-9780585627b5
 	google.golang.org/api v0.70.0
 	gopkg.in/ini.v1 v1.62.0 // indirect
 	gopkg.in/ns1/ns1-go.v2 v2.5.1
