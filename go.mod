@@ -57,15 +57,15 @@ require (
 	github.com/russross/blackfriday/v2 v2.1.0 // indirect
 	github.com/sergi/go-diff v1.1.0 // indirect
 	github.com/softlayer/softlayer-go v1.0.4
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.8.1
 	github.com/tdewolff/minify/v2 v2.10.0
 	github.com/transip/gotransip/v6 v6.14.0
 	github.com/urfave/cli/v2 v2.3.0
 	github.com/vultr/govultr v1.1.1
 	github.com/xddxdd/ottoext v0.0.0-20210101073831-439879ee6281
-	golang.org/x/net v0.0.0-20220225172249-27dd8689420f
-	golang.org/x/oauth2 v0.0.0-20220223155221-ee480838109b
-	google.golang.org/api v0.70.0
+	golang.org/x/net v0.7.0
+	golang.org/x/oauth2 v0.5.0
+	google.golang.org/api v0.111.0
 	gopkg.in/ini.v1 v1.62.0 // indirect
 	gopkg.in/ns1/ns1-go.v2 v2.5.1
 	gopkg.in/yaml.v2 v2.4.0
